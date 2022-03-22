@@ -1,0 +1,7 @@
+#floder
+/.idea
+/.vscode
+/.DS_Store
+
+#file
+telepresence.log
